@@ -28,14 +28,14 @@
 .description-header{
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: flex-start;
 }
 .description .member-image{
    width: 60px;
    border-radius:50%;
 }
 .description  .memeber-tile{
-    margin-left:10%;
+    margin-left:12px;
 }
 .description-divider{
     border: 1px solid #00B189;
